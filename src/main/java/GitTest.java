@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("master commit1");
 
         System.out.println("host-fix2");
+        System.out.println("push test");
     }
 }
